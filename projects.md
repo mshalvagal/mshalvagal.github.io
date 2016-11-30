@@ -27,4 +27,5 @@ In light of this, I spent my summer internship at the [Brain Body Dynamics Lab](
 ## A Reinforcement Learning Agent to play the 2048 Puzzle Game
 
 <br>
+
 ## A Spectrum Analyzer built from Basic Analog Circuitry
