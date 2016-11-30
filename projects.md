@@ -6,7 +6,7 @@ permalink: /projects/
 
 These are some interesting projects I've worked on. They seem spread all over the place because I've worked on a bunch of different things, but it's been fun, and I have a pretty good idea where I'm headed now.
 
-## Efficient Exploration with Ensembles of Value Functions
+## Efficient Exploration with Ensembles of Value Estimates
 
 ### Guide: [Dr. Balaraman Ravindran, IIT Madras](http://www.cse.iitm.ac.in/~ravi/)
 
